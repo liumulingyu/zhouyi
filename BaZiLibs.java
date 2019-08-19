@@ -1,7 +1,12 @@
 package com.liumulingyu.utils;
 
 
-
+/**
+ * @author 流木领域
+ * 关注公众号：”流木领域“获取更多资料
+ * 联系方式：wx:liumulingyu QQ:526100560
+ * 周易根据阳历以24节气来计算四柱八字
+ */
 public class BaZiLibs {
 
     /**
